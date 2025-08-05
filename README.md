@@ -102,7 +102,36 @@ Logs out user and returns to login screen.
 
 <img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/c1e6e64c-7166-4513-b01d-9b9d799a7ce4" />
 
+**📌 Future Improvements:**
+
+OTP-based login
+
+Admin/User role management
+
+Email integration for invoice/report delivery
 
 
+🙋‍♂️ **Developer:**
+
+Er. Amit Kumar
+Built with 💻 using Python + MySQL
 
 
+**HotelManagementSystem/**
+📁 **Project Structure**
+├── main.py
+├── login.py
+├── dashboard.py
+├── customer.py
+├── room_booking.py
+├── report.py
+├── about.py
+├── config.py
+├── db_config.sql
+├── Report/
+│   ├── Customer_Report_.pdf
+│   └── Room_Report_.pdf
+├── images/
+│   ├── banner.jpg
+│   └── icons/
+└── README.md
