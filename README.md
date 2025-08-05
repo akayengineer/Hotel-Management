@@ -117,8 +117,14 @@ Er. Amit Kumar
 Built with 💻 using Python + MySQL
 
 
-**HotelManagementSystem/**
-📁 **Project Structure**
+# Hotel Management System 🏨
+
+This is a Python-based Hotel Management System that allows hotel staff to manage customers, bookings, and generate reports efficiently.
+
+## 📁 Project Structure
+
+```bash
+HotelManagementSystem/
 ├── main.py
 ├── login.py
 ├── dashboard.py
@@ -135,3 +141,4 @@ Built with 💻 using Python + MySQL
 │   ├── banner.jpg
 │   └── icons/
 └── README.md
+
