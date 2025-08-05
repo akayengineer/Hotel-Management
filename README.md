@@ -64,5 +64,45 @@ Automatically stores PDFs in a report folder.
 
 Displays project title and developer name.
 
-🚪 7. Logout
+🚪 7. **Logout**
+
 Logs out user and returns to login screen.
+
+📷 **Screenshots:**
+
+**Login Page**
+
+<img width="1366" height="768" alt="Screenshot (105)" src="https://github.com/user-attachments/assets/722b9976-0dca-4e33-8396-131a11e5427f" />
+
+
+**Main Dashboard**
+
+<img width="1366" height="768" alt="Screenshot (107)" src="https://github.com/user-attachments/assets/da42d3cc-aa2a-4121-96a9-04db7f5f67cd" />
+
+
+**Customer Management**
+
+<img width="1366" height="768" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/8e4f18f2-0bbb-4033-b83b-e0d11f94f1ce" />
+
+
+**Room Booking**
+
+<img width="1366" height="768" alt="Screenshot (111)" src="https://github.com/user-attachments/assets/bdd12af0-44b3-4813-873b-961d860ea96b" />
+
+
+**Report**
+
+<img width="1366" height="768" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/070cf7c7-e9c5-48e4-a108-be704e9c6bee" />
+
+**About Section**
+
+<img width="1366" height="768" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/18c245c8-6cf1-4546-8acb-d26852ebcd63" />
+
+**PDF Report**
+
+<img width="1366" height="768" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/c1e6e64c-7166-4513-b01d-9b9d799a7ce4" />
+
+
+
+
+
