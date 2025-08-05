@@ -155,6 +155,7 @@ Email integration for invoice/report delivery
 🙋‍♂️ **Developer:**
 
 Er. Amit Kumar
+
 Built with 💻 using Python + MySQL
 
 
