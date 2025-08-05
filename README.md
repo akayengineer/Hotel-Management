@@ -4,24 +4,42 @@ This is a Python-based Hotel Management System that allows hotel staff to manage
 
 ## 📁 Project Structure
 
-```bash
-HotelManagementSystem/
+
+**HotelManagementSystem/**
+
 ├── main.py
+
 ├── login.py
+
 ├── dashboard.py
+
 ├── customer.py
+
 ├── room_booking.py
+
 ├── report.py
+
 ├── about.py
+
 ├── config.py
+
 ├── db_config.sql
+
 ├── Report/
+
 │   ├── Customer_Report_.pdf
+
 │   └── Room_Report_.pdf
+
 ├── images/
+
 │   ├── banner.jpg
+
 │   └── icons/
+
 └── README.md
+
+
 
 💡 **Description:**
 
